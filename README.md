@@ -1,5 +1,5 @@
 🪟**modal_Window**
-    Need a popup that looks great and works smoothly? This modal window component—built with HTML, CSS, and JavaScript—handles alerts, forms, and more with ease.
+    Need a popup that looks great and works smoothly? This modal window component—built with HTML, CSS, and JavaScript—handles alerts, forms, and also the Pop Up window.
 
     
 📦Features
